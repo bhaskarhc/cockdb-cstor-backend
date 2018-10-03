@@ -1,4 +1,4 @@
-# Backend server for openebs percona-dashboard 
+# Backend server for openebs cockroachdb-dashboard 
 
 ## http://cockroachjiva.openebs.ci
 
